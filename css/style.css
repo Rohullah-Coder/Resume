@@ -23,7 +23,7 @@ header {
       rgba(14, 13, 13, 1),
       rgba(255, 255, 255, 0.1)
     ),
-    url("images/backgroud.png");
+    url("../images/backgroud.png");
   background-size: cover;
 }
 header nav {
@@ -218,7 +218,7 @@ header nav ul li a:hover {
 .skills {
   height: 80vh;
   background: linear-gradient(to right, rgba(14, 13, 13, 0), rgba(0, 0, 0)),
-    url("images/skill-bg.png");
+    url("../images/skill-bg.png");
   background-size: cover;
   display: flex;
   justify-content: center;
